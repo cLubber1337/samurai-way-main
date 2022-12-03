@@ -5,7 +5,7 @@ import MyPosts from "../MyPosts/MyPosts";
 
 function Profile() {
   return (
-    <div>
+    <div className={s.body}>
       <ProfileInfo />
       <MyPosts />
     </div>

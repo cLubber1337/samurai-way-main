@@ -1,4 +1,6 @@
-.avatar {
+.myProfile {
     padding: 10px 20px;
-  
+}
+.avatar {
+    border-radius: 70px;
 }
