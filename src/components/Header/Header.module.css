@@ -1,0 +1,17 @@
+.header {
+    display: grid;
+    grid-area: h;
+    background-color: #373737;
+    padding: 0;
+    height: 79px;
+    border: none;
+    border-bottom: 1px solid #1f1209;
+    box-shadow: 0 20px 20px -20px #333;
+    width: 100%;
+
+}
+.logo {
+    width: 180px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
